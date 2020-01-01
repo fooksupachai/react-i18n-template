@@ -1,0 +1,10 @@
+{
+	"title": "ตัวอย่างการทำเว็ปไซต์สองภาษาด้วย react-i18next",
+	"subtitle": "internationalization framework for React ประสิทธิภาพสูง",
+	"lang_text": "กรุณาเลือกภาษา : ",
+	"lang_en": "ภาษาอังกฤษ",
+	"lang_th": "ภาษาไทย",
+	"header": "React i18next คืออะไร",
+	"content": "react-i18next คือ internationalization addon ที่ใช้งานได้กับ React หรือพูดง่ายๆคือเปลี่ยนจากใช้ค่าตรงๆ เป็นการเรียกฟังก์ชั่นแล้วโยนพารามิเตอร์เป็น Key ของคำนั่นไปแทน เพื่อแสดงผลตามภาษาที่เราเลือกขณะนั้น",
+	"welcome_message": "สวัสดี, {{name}}. ยินดีต้อนรับสู่การวิธีการทำเว็บไซต์สองภาษาด้วย react-i18next"
+}

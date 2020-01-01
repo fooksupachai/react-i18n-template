@@ -1,0 +1,10 @@
+{
+	"title": "React-i18n Demo",
+	"subtitle": "powerful internationalization framework for React",
+	"lang_text": "Please select language : ",
+	"lang_en": "English",
+	"lang_th": "Thai",
+	"header": "What's React i18next?",
+	"content": "react-i18next is a powerful internationalization framework for React / React Native which is based on i18next.",
+	"welcome_message": "Hello, {{name}}. Welcome to how to make a bilingual website with react-i18next"
+}
